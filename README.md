@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project in react+supabase
+Main project build with react Query and supabase
